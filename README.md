@@ -1,1 +1,1 @@
-# segmentation_intensity_inhomogeneity
+# Image Segmentation in the presence of Intensity Inhomogeneity
